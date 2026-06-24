@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Ramesh Reddy ### Full Stack Developer • UI/UX Designer • AI Enthusiast Building modern digital experiences through design, development, and innovation. <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-# 💫 About Me:
-"Full Stack Developer & UI/UX Designer | Transforming ideas into meaningful products through design and technology."
-
+<div align="center"> # Kamireddy Ramesh Reddy ### Full Stack Developer • UI/UX Designer • AI Enthusiast Building meaningful digital experiences through design, technology, and innovation. [LinkedIn](https://www.linkedin.com/in/kamireddy-ramesh-reddy-000a15367) • [Behance](https://www.behance.net/kamiredramesh) • [Instagram](https://www.instagram.com/rameshreddy.creative) • [Email](mailto:kamireddyramesh0527@gmail.com) </div> ---
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/kamiredramesh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rameshreddy.creative/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kamireddy-ramesh-reddy-000a15367/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamireddyramesh0527@gmail.com) 
